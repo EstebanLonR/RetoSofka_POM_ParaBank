@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login ParaBank" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-03-17T19:49:15" hostname="DESKTOP-9LU7CK1" time="1.288">
+  <properties/>
+  <testcase name="Recordar Informacion Login" classname="Login ParaBank" time="1.288">
+    <failure message="java.lang.NullPointerException" type="java.lang.NullPointerException">java.lang.NullPointerException
+	at com.co.sofka.stepdefinition.setup.SetUp.closeDriver(SetUp.java:32)
+	at com.co.sofka.stepdefinition.parabank.LoginStepDefinitions.queElUsuarioSeEncuentraEnLaPaginaPrincipalDelPortal(LoginStepDefinitions.java:32)
+	at ✽.que el usuario se encuentra en la pagina principal del portal(file:///C:/Users/londo/Documents/Sofka/ProyectosAutomatizados/RetoPOM-Sofka/src/test/resources/features/parabank/login/login.feature:20)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 61215
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+</testsuite>
