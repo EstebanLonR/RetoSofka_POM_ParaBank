@@ -1,4 +1,4 @@
-ParaBankAutomatizad🤖
+ParaBankAutomatizado🤖
 
 RetoPOM-Parabak hecho por Juan Esteban Londoño Ruiz. 
 Este proyecto esta realizado bajo el modelo POO(Programacion Orientada a Objetos) y bajo el Lenguaje de programacion Java bajo el gestor de dependencias Gradle🐘
@@ -8,6 +8,8 @@ Pre Requisitos 📋
 Se debe de tener en el equipo a ejecutar Java version 11, update 191 o superior and JDK (Variables de entorno Configuradas). Eclipse IDE, IntelliJ IDEA, o NetBeans (version 2019 o superior)
 
 Para clonar este repositorio localmente este es el comando el cual se debera ejecutar: git clone https://github.com/EstebanLonR/RetoSofka_POM_ParaBank.git Importar el proyecto a los IDE Eclipse,IntelliJ o NetBeans.
+
+Explicacion del Proyecto🤓
 
 En la carpeta de Documentos de pruebas estaran publicados tanto en formato PDF como HTML el plan de pruebas construido para la verificacion de las funcionalidades del aplicativo WEB.
 Igualmente en este siguiente Link tambien se encontrara publicado el mismo:
